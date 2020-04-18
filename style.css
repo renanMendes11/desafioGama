@@ -1,0 +1,11 @@
+html, body {
+    font-weight: bold;
+    padding: 0;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
