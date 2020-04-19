@@ -1,0 +1,51 @@
+html, body {
+    font-weight: bold;
+    padding: 0;
+    margin: 0;
+}
+
+#content {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+#content > h2 {
+    display: flex;
+    justify-content: center;
+}
+
+header, footer {
+    display: flex;
+    justify-content: center;
+    background-color: #CD0000;
+}
+
+footer > p {
+    color: white;
+}
+
+footer {
+    padding-top: 20px;
+}
+
+
+nav {
+    margin: 26px 0px 40px 310px;
+}
+header > h2 {
+    color: #fff;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    color: #fff;
+    margin-right: 30px;
+    text-decoration: none;
+    padding: 50px 20px 40px 20px;
+}
+a:hover {
+    background-color: #8B0000;
+}

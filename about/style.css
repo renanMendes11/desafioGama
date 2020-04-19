@@ -1,0 +1,10 @@
+#linkedin  {
+    color: black;
+    margin: 0;
+    padding: 0;
+}
+
+#linkedin:hover {
+    background-color: white;
+    color: #8B8989;
+}
